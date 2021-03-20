@@ -1,11 +1,11 @@
 class User
   def initialize
-    @first_name = "Yasufumi"
-    @last_name = "Uehara"
+    @first_name = ""
+    @last_name = ""
     @birthday = "2021/3/18"
     @age = 0
-    @birthplace = "Okinawa"
-    @hobby = "Drive"
+    @birthplace = ""
+    @hobby = ""
   end
 
   def introduce
